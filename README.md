@@ -38,7 +38,7 @@ You can use this force field in your research according to the following informa
     [You can choose our force field by inputting "1" and then click "Enter"]  
 
 ### Reference  
-When you publish or report results using CHARMM36IDPSFF force field, please cite the following papers  
+When you publish or report results using CHARMM36IDPSFF force field, please cite the following paper  
 
 - S. Yang, H. Liu, Y. Zhang, H. Lu, and H. F. Chen. Residue-Specific Force Field Improving the Sample of
   Intrinsically Disordered Proteins and Folded Proteins, *J. Chem. Inf. Model.*, 2019, **59**, 11, 4793–4805.
